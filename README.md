@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there! My name is Nick Tassinari 👋
 
+I am a musician and audio engineer turned software engineer. I am passionate about building creative web applications and plug-ins. I enjoy working in Ruby on Rails and am currently learning Python/Django. I have a certificate in Back End Software Development from Turing School of Software and Design and I am currently looking for a full time Junior Software Engineer role!
+
+
+### Let's connect!
+My [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassinarinicholas/)
+
+My email: nicholastassinari91@gmail.com
 <!--
 **NickTassinari/NickTassinari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
